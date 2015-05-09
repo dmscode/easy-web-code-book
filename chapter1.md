@@ -24,4 +24,4 @@
 * 简书： http://www.jianshu.com/users/d37eaf3de0ff
 * 站酷： http://www.zcool.com.cn/u/12927742
 
-未经本人许可，禁止任何形式转载。相关事宜请联系： dms@zji,me
+未经本人许可，禁止任何形式转载。相关事宜请联系： dms@zji.me
