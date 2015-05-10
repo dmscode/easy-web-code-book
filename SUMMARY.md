@@ -8,3 +8,4 @@
 * [第五章 一个模板](chapter5.md)
 * [第六章 开始写点东西](chapter6.md)
 * [第七章 认识链接](chapter7.md)
+* [第八章 半个标签](chapter8.md)
