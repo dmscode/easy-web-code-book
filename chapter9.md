@@ -146,12 +146,12 @@
 			<td></td>
 		</tr>
 	</tbody>
-	<tfood>
+	<tfoot>
 		<tr>
 			<td></td>
 			<td></td>
 		</tr>
-	</tfood>
+	</tfoot>
 </table>
 ```
 
