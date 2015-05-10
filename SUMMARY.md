@@ -6,3 +6,4 @@
 * [第三章 几个小故事](chapter3.md)
 * [第四章 做点准备工作](chapter4.md)
 * [第五章 一个模板](chapter5.md)
+* [第六章 开始写点东西](chapter5.md)
