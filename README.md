@@ -13,7 +13,7 @@
 
 读者交流平台：https://code.pubu.im/  
 
-注册邀请：https://code.pubu.im/reg/8d1xm674xyv6ux4ye3rr1qlefv6    （注册之后记得到邮箱去激活一下，以后用上面的网址登录即可）
+注册邀请：https://code.pubu.im/reg/b6mebkgg18lbtrr    （注册之后记得到邮箱去激活一下，以后用上面的网址登录即可）
 
 大家可以在里面自助解答问题，由于时间关系，我无法承诺解答所有问题，但是我会尽力。
 
