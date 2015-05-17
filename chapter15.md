@@ -31,7 +31,7 @@
 	<head>
 		<meta charset="UTF-8">
 		<title>我们的目标是抢前端的饭碗！</title>
-		<link href="style.main.css" rel="stylesheet" type="text/css">
+		<link href="styles/main.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
 		<!-- 后面的 Html 代码写这里，我就不老复制完整的网页代码了。 -->
