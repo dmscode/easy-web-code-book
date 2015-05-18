@@ -109,6 +109,8 @@ index.html 文件全文：
 
 > **本章学习卡片：[卡片 16](http://coffee.zji.me/card.html?name=chapter16)**
 
+> **本章代码下载：[本章代码](http://coffee.zji.me/show-code/16.zip)**
+
 ---
 
 **本书是收费的，不过交费凭自觉。**价格定义为每人请我喝一杯咖啡（哪种品质的咖啡随意），支付宝账号：
