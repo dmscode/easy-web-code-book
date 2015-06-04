@@ -24,7 +24,7 @@
 	* |_ shuaige.png
 * |_ files
 	* |_ miao
-		* |_ huamao,jpg
+		* |_ huamao.jpg
 	* |_ index.html
 	* |_ photo.jpg
 
@@ -36,7 +36,7 @@
 
 > `files` 文件夹下有两个文件 `index.html` 和 `photo.jpg` ，还有一个叫做 `miao` 的文件夹；
 
-> `miao` 文件夹下有一张图片 `huamao,jpg`
+> `miao` 文件夹下有一张图片 `huamao.jpg`
 
 好了，我们假设你读得很认真，你完全理解了我上边所说的这些乱七八糟的东西，那么下边便是很轻松的学习关键技巧的时刻了。如果你看到这里发现上面的都没看……那就记住下面的方法，用的多了自然也就明白了。
 
