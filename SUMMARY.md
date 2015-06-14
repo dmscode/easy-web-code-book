@@ -34,3 +34,5 @@
 * [第三十一章 还是海报](chapter31.md)
 * [第三十二章 一些格子](chapter32.md)
 * [第三十三章 一个页尾](chapter33.md)
+* [第三十四章 一些补遗](chapter34.md)
+* [第三十五章 随便聊聊](chapter35.md)
