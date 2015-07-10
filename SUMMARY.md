@@ -36,3 +36,8 @@
 * [第三十三章 一个页尾](chapter33.md)
 * [第三十四章 一些补遗](chapter34.md)
 * [第三十五章 随便聊聊](chapter35.md)
+* [第三十六章 定位（一）](chapter36.md)
+* [第三十七章 定位（二）](chapter37.md)
+* [第三十八章 定位（三）](chapter38.md)
+* [第三十九章 坐标系](chapter39.md)
+* [第四十章 定位实例（一）](chapter40.md)
