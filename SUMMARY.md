@@ -1,6 +1,6 @@
 # Summary
 
-* [前言](readme.md)
+* [前言](README.md)
 * [第一章 开场小谈](chapter1.md)
 * [第二章 扯扯学习方法](chapter2.md)
 * [第三章 几个小故事](chapter3.md)
@@ -46,7 +46,7 @@
 * [第四十三章 定位实例（四）](chapter43.md)
 * [第四十四章 定位实例（五）](chapter44.md)
 * [第四十五章 无聊的写个小游戏吧](chapter45.md)
-* [第四十六章 响应式](chapter46)
+* [第四十六章 响应式](chapter46.md)
 * [第四十七章 JavaScript Start](chapter47.md)
 * [第四十八章 变量](chapter48.md)
 * [第四十九章 运算符](chapter49.md)
