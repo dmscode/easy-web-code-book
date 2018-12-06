@@ -46,11 +46,8 @@ alert("这里是要显示的文字");
 
 > **alay9999@163.com  （刘源）**
 
-为了让大家阅读方便，本书将在如下站点发布，但最终内容以主站为准：
+**本书现已重写，最新版内容请查看主站更新。**本书目前除主站之外，仅授权站酷、极客学院 Wiki发布，其他站点均为无授权盗载。
 
-* 主站首发： http://coffee.zji.me/
-* Gitbook: http://codeme.gitbooks.io/easy-web-code-book/
-* 简书： http://www.jianshu.com/users/d37eaf3de0ff
-* 站酷： http://www.zcool.com.cn/u/12927742
+* 主站（2018 新版上线）：https://dmnydn.com/
 
 未经本人许可，禁止任何形式转载。相关事宜请联系： dms@zji.me
